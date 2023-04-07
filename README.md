@@ -1,4 +1,4 @@
-<img src="https://github.com/WlFerrari/WlFerrari/blob/master/https://64.media.tumblr.com/e53aa2b656632d1719d0ffd688b148e5/4b37ef702a1bd1bf-8a/s540x810/159848860d22756fdb739d8c226f9783a1f2d0ee.gifv](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fstudy-anime-gif-27067905&psig=AOvVaw0spkbaeGvi7MuK1KGVXH1p&ust=1680984542389000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCDxsfJmP4CFQAAAAAdAAAAABAY">
+<img src="https://github.com/WlFerrari/WlFerrari/blob/master/https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif">
 
 # 📇 About Me:
 I'm currently studying programming, and my goal is to pursue computer engineering at the University of Toronto. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career. 
