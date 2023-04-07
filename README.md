@@ -1,3 +1,5 @@
+https://64.media.tumblr.com/8d280b8112668b621d2f19d282c65a17/a6c27d01dfe60d2c-3f/s540x810/7f71afb93122b2432b11e36daf86c24cf9b535be.gifv
+
 # 📇 About Me:
 I'm currently studying programming, and my goal is to pursue computer engineering at the University of Toronto. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career. 
 
@@ -14,8 +16,3 @@ I'm currently studying programming, and my goal is to pursue computer engineerin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ferrari&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<div align="right">
-<a href="[https://www.pixiv.net/en/users/35069640](https://64.media.tumblr.com/8d280b8112668b621d2f19d282c65a17/a6c27d01dfe60d2c-3f/s540x810/7f71afb93122b2432b11e36daf86c24cf9b535be.gifv)"></a>
-  </div>
-  </div>
