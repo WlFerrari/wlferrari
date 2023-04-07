@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/WlFerrari/WlFerrari/master/study-anime.gif">
+https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif
 
 # 📇 About Me:
 I'm currently studying programming, and my goal is to pursue computer engineering at the University of Toronto. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career. 
