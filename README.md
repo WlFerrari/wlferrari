@@ -25,7 +25,7 @@
 > Ferrari
 ```
 
-<img align="left" src="img/smokeguy.png" width="200px"/> 
+<img align="left" src="img/smokeguy.png" width="300px"/> 
 
 ```csharp
 My Profile
