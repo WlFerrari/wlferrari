@@ -33,8 +33,8 @@ My Profile
 Username: Wel
 WhoamI: I'm currently studying programming, and my goal is to pursue computer engineering at the University of Toronto. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career.
 Location: 🇧🇷/🇨🇦
-Languages: C, C++, Python, JS, Node, Lua
-Learning: Swift, Kotlin, Go, Js,CSS and HTML
+Languages: C, C++, Python, JS, Node, Lua, Java, HTML
+Learning: Cheat Engine, HTML
 Hobbies: Gaming, reading manga and coding
 
 ```
