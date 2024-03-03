@@ -39,7 +39,7 @@ Hobbies: Gaming, reading manga and coding
 
 ```
 <p align = "center">
-     <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,js,lua,nodejs,py,discord,line=8"alt="My Skills"/> 
     </a>
 </p>
