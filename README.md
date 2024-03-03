@@ -31,7 +31,7 @@
 My Profile
 -------------------------------
 Username: Wel
-WhoamI: I'm currently studying programming at Unifil in Londrina, my goal is complete the graduation of Computer Engineering. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career.
+WhoamI: I'm currently studying programming at Unifil Londrina, my goal is complete the graduation of Software Engineering. Right now, I'm busy learning as many programming languages as I can to prepare for my future studies and career.
 Location: 🇧🇷/🇨🇦
 Languages: C, C++, Python, JS, Node, Lua, Java, HTML
 Learning: Cheat Engine, HTML
