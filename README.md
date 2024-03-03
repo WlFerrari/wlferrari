@@ -38,13 +38,6 @@ Learning: Cheat Engine, HTML
 Hobbies: Gaming, reading manga and coding
 
 ```
-
-<div>
-<h2 align="center"> Knowledge📖 </h2>
-</div>
-<div align = "center">
-<p align = "justify">
-I'm currently starting to study computer engineering, my main focus at the moment is on developing websites and discovering loopholes in programs provided by large companies. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=c,cs,cpp,html,java,js,lua,nodejs,py,discord,line=8"alt="My Skills"/> 
