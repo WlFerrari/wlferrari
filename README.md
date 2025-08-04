@@ -86,14 +86,4 @@ Hobbies: Gaming, reading manga and coding
 <div align="center">
 <a href="https://github.com/WlFerrari" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</div>  
-
-    
-<h1 align="center">Support Me </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/coffehelp.jpg">
-</p>
-
-
-<a href="https://www.buymeacoffee.com/wlferrari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
+</div> 
